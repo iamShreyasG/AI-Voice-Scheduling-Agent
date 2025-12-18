@@ -104,6 +104,17 @@ The `screenshots/` folder contains:
 
 These demonstrate successful meeting creation.
 
+## 🎥 Demo Video
+
+A short demo showing:
+- Voice agent interaction
+- Event creation
+- Google Calendar confirmation
+
+▶️ Watch the demo here:
+https://www.loom.com/share/a36181283a8e40e49fa17bd7ff70c895
+
+
 ---
 
 ## Notes for Reviewers
